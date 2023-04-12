@@ -1,0 +1,5 @@
+export const BlogInfo = [
+{id:1, link: "#", img: "assets/images/Blog/3.png", alt: "Blog-post Thumbnail", title: "Lorem ipsum dolor sit amet", author: "Reza Torkashvand", info: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."},
+{id:2, link: "#", img: "assets/images/Blog/4.png", alt: "Blog-post Thumbnail", title: "Lorem ipsum dolor sit amet", author: "Reza Torkashvand", info: " Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse"},
+{id:3, link: "#", img: "assets/images/Blog/5.png", alt: "Blog-post Thumbnail", title: "Lorem ipsum dolor sit amet", author: "Reza Torkashvand", info: "cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."},
+];
