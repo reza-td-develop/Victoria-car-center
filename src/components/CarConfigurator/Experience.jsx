@@ -7,7 +7,7 @@ const Experience = () => {
 
 
   return (
-    <PresentationControls speed={1.5} global zoom={0.7} polar={[-1, Math.PI / 2]}>
+    <PresentationControls speed={10} global zoom={0.7} polar={[-1, Math.PI / 2]}>
       <Stage environment={"city"} intensity={0.5} contactShadow={false}>
         <Dena />
       </Stage>
