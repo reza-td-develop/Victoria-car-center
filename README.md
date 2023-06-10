@@ -1,6 +1,5 @@
 # Victoria Car Center
 
-![Victoria Car Center Banner](./assets/banner.png)
 
 Victoria Car Center is a user-friendly platform designed to manage car showrooms, streamline the car purchasing process, and enhance the user experience for buyers The platform is built using React and Redux Toolkit and provides a realistic experience for managing car inventories.
 
