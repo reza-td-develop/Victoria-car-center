@@ -53,16 +53,7 @@ npm install
 yarn
 ```
 
-### Step 3: Configure environment variables
-
-Create a `.env` file in the root directory of the project and configure the following environment variables:
-
-```
-MONGODB_URI=<your_mongodb_connection_uri>
-JWT_SECRET=<your_jwt_secret_key>
-```
-
-### Step 4: Run the application
+### Step 3: Run the application
 
 ```bash
 # Start the development server
