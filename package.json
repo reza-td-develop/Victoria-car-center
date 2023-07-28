@@ -4,7 +4,7 @@
   "homepage": "http://victoriacenter.ir",
   "private": true,
   "dependencies": {
-    "@react-three/drei": "^9.57.3",
+    "@react-three/drei": "^9.80.0",
     "@react-three/fiber": "^8.12.0",
     "@reduxjs/toolkit": "^1.9.1",
     "@testing-library/jest-dom": "^5.16.5",
