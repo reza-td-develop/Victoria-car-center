@@ -5,8 +5,6 @@ import HomePage from "./components/homepage/HomePage";
 import ShopPage from "./components/Shop/ShopPage";
 import Checkout from "./components/Shop/Checkout/Checkout";
 import CarConfigurator from "./components/CarConfigurator/CarConfigurator";
-import RimPanel from "./components/CarConfigurator/controlPanelV2/RimPanel";
-import NewBeta from "./components/CarConfigurator/NewBeta";
 
 export default function App() {
     return (
